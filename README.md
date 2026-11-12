@@ -67,6 +67,7 @@ Here are my mobile applications currently published and active on the **Apple Ap
 
 | Project | Description | Key Tech / Highlights |
 | :--- | :--- | :--- |
+| 🔄 **[Mobile Offline-First Sync](https://github.com/EmreSlgr/mobile-offline-first-sync-engine)** | Offline-first sync engine with delta push/pull and Last-Write-Wins (LWW) conflict resolution for mobile apps. | SQLite, Delta Sync Protocol, Conflict Resolution |
 | 🛡️ **[Transactional Idempotency](https://github.com/EmreSlgr/dotnet-transactional-idempotency)** | Prevents double-charging during network drops and client retries in payment systems. | SQLite ACID Transactions, Idempotency-Key, Safe Replay |
 | ⚡ **[Race Condition & Double-Spend](https://github.com/EmreSlgr/dotnet-race-condition-double-spend)** | Concurrency simulation demonstrating how naive checks fail and how critical sections protect account balances. | Multithreading, SemaphoreSlim, Atomic Operations |
 | 🚦 **[ASP.NET Core Rate Limiting](https://github.com/EmreSlgr/aspnetcore-rate-limiting)** | Zero-dependency, framework-native API rate limiting protecting endpoints from brute-force & DDoS. | Sliding Window Limiter, RFC 6585, Minimal APIs |
