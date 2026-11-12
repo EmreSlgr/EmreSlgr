@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreSlgr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emre.salgir@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=EmreSlgr&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/EmreSlgr)
 
 ---
 
@@ -60,11 +61,10 @@ Here are some focused, production-grade repositories demonstrating modern C# & .
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmreSlgr&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Emre's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreSlgr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=EmreSlgr&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
