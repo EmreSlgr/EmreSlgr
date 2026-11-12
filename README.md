@@ -1,6 +1,7 @@
 # Hi there, I'm Emre Salgır 👋
 ### Software Developer | .NET Backend & Mobile (iOS / Android) Developer
 
+[![Website](https://img.shields.io/badge/Website-teknofuzyon.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.teknofuzyon.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreSlgr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emre.salgir@gmail.com)
@@ -10,12 +11,25 @@
 
 ### 🚀 About Me
 
-I am a passionate **Software Developer** building high-performance **.NET backend systems** and end-to-end **mobile applications (iOS & Android)** from concept to live deployment.
+I am a passionate **Software Developer** and founder at [Teknofüzyon](https://www.teknofuzyon.com/), specializing in building robust **.NET backend systems** and publishing production-grade **iOS & Android applications** on the App Store and Google Play.
 
+* 🌐 **Website & Products:** Building consumer and enterprise software solutions at [teknofuzyon.com](https://www.teknofuzyon.com/).
+* 📱 **Published Mobile Apps:** Active developer with multiple live applications on both **Apple App Store** and **Google Play Store**.
 * 🔭 **Backend Focus:** High-throughput APIs, distributed systems patterns (Transactional Idempotency, Concurrency & Race Conditions, Rate Limiting), Clean Architecture.
-* 📱 **Mobile Development:** Designing, developing, and publishing production applications on **Google Play Store** and **Apple App Store**.
-* 🎯 **Product-Driven Mindset:** End-to-end development lifecycle — API design, database modeling, mobile client integration, and store publishing.
 * ✍️ **Sharing Knowledge:** Regularly publishing hands-on architecture deep-dives and engineering benchmarks on [LinkedIn](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/).
+
+---
+
+### 📱 Live Published Mobile Applications
+
+Here are my mobile applications currently published and active on the **Apple App Store** and **Google Play Store**:
+
+| Application | Description | Platforms & Store Links |
+| :--- | :--- | :--- |
+| 🕌 **Vaktin: Namaz, Kıble, Zikir** | Comprehensive daily companion app for prayer times, Qibla compass, and Dhikr counting. | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/vaktin-namaz-k%C4%B1ble-zikir/id6779537878) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vaktinn.app&hl=tr&pli=1) |
+| 🚗 **Garajım: Dijital Araç Asistanı** | Digital automotive assistant for tracking vehicle maintenance, fuel logs, and periodic service records. | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/garaj%C4%B1m-dijital-ara%C3%A7-asistan%C4%B1/id6799922391) |
+| 📱 **HCT - Hayatını Cebinde Tut** | Practical productivity and daily life management application. | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hct-hayat%C4%B1n%C4%B1-cebinde-tut/id6817709283) |
+| 🏛️ **Gizemli Müze** | Interactive and educational museum discovery and mobile experience app. | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gizemli-m%C3%BCze/id6797477771) |
 
 ---
 
@@ -28,11 +42,11 @@ I am a passionate **Software Developer** building high-performance **.NET backen
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Mobile Development & Store Publishing:**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+**Mobile Development & Deployment:**  
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
 
 **Databases & Caching:**  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -49,9 +63,7 @@ I am a passionate **Software Developer** building high-performance **.NET backen
 
 ---
 
-### 📌 Featured Showcases
-
-Here are some focused, production-grade repositories demonstrating modern C# & .NET backend patterns:
+### 📌 Featured Engineering Showcases
 
 | Project | Description | Key Tech / Highlights |
 | :--- | :--- | :--- |
@@ -71,6 +83,7 @@ Here are some focused, production-grade repositories demonstrating modern C# & .
 
 ### 📬 Connect With Me
 
+* 🌐 **Website:** [teknofuzyon.com](https://www.teknofuzyon.com/)
 * 💼 **LinkedIn:** [linkedin.com/in/emre-salgır-a98b21174](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/)
 * 📧 **Email:** [emre.salgir@gmail.com](mailto:emre.salgir@gmail.com)
 * 🐙 **GitHub:** [github.com/EmreSlgr](https://github.com/EmreSlgr)
