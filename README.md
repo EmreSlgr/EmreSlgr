@@ -1,7 +1,7 @@
 # Hi there, I'm Emre Salgır 👋
-### Software Developer | .NET Backend & Mobile (iOS / Android) Engineer
+### Software Developer | .NET Backend & Mobile (iOS / Android) Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-salg%C4%B1r/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreSlgr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emre.salgir@gmail.com)
 
@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-I am a versatile **Software Developer** building high-performance **.NET backend systems** and end-to-end **mobile applications (iOS & Android)** from conception to store deployment.
+I am a passionate **Software Developer** building high-performance **.NET backend systems** and end-to-end **mobile applications (iOS & Android)** from concept to live deployment.
 
-* 🔭 **Backend Focus:** High-throughput APIs, distributed systems patterns (Transactional Idempotency, Concurrency, Rate Limiting), Clean Architecture.
+* 🔭 **Backend Focus:** High-throughput APIs, distributed systems patterns (Transactional Idempotency, Concurrency & Race Conditions, Rate Limiting), Clean Architecture.
 * 📱 **Mobile Development:** Designing, developing, and publishing production applications on **Google Play Store** and **Apple App Store**.
-* 🎯 **Full-Cycle Mindset:** End-to-end application lifecycle — API design, database modeling, mobile client integration, and store publishing.
-* ✍️ **Sharing Knowledge:** Regularly publishing hands-on architecture deep-dives and engineering benchmarks on [LinkedIn](https://www.linkedin.com/in/emre-salg%C4%B1r/).
+* 🎯 **Product-Driven Mindset:** End-to-end development lifecycle — API design, database modeling, mobile client integration, and store publishing.
+* ✍️ **Sharing Knowledge:** Regularly publishing hands-on architecture deep-dives and engineering benchmarks on [LinkedIn](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/).
 
 ---
 
@@ -48,7 +48,7 @@ I am a versatile **Software Developer** building high-performance **.NET backend
 
 ---
 
-### 📌 Featured Engineering Showcases
+### 📌 Featured Showcases
 
 Here are some focused, production-grade repositories demonstrating modern C# & .NET backend patterns:
 
@@ -71,6 +71,6 @@ Here are some focused, production-grade repositories demonstrating modern C# & .
 
 ### 📬 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/emre-salgır](https://www.linkedin.com/in/emre-salg%C4%B1r/)
+* 💼 **LinkedIn:** [linkedin.com/in/emre-salgır-a98b21174](https://www.linkedin.com/in/emre-salg%C4%B1r-a98b21174/)
 * 📧 **Email:** [emre.salgir@gmail.com](mailto:emre.salgir@gmail.com)
 * 🐙 **GitHub:** [github.com/EmreSlgr](https://github.com/EmreSlgr)
