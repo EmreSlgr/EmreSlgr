@@ -1,5 +1,5 @@
 # Hi there, I'm Emre Salgır 👋
-### Software Developer | C# & .NET Backend Engineer
+### Software Developer | .NET Backend & Mobile (iOS / Android) Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-salg%C4%B1r/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreSlgr)
@@ -9,22 +9,29 @@
 
 ### 🚀 About Me
 
-I am a passionate **Backend Software Developer** focusing on building robust, scalable, and high-performance applications with the **.NET ecosystem**. 
+I am a versatile **Software Developer** building high-performance **.NET backend systems** and end-to-end **mobile applications (iOS & Android)** from conception to store deployment.
 
-* 🔭 **Currently Building:** Practical engineering simulations and distributed backend patterns (Concurrency, Idempotency, Clean Architecture).
-* 🎯 **Focus Areas:** High-throughput APIs, Fintech & Payment Systems, Data Consistency, Performance Optimization.
+* 🔭 **Backend Focus:** High-throughput APIs, distributed systems patterns (Transactional Idempotency, Concurrency, Rate Limiting), Clean Architecture.
+* 📱 **Mobile Development:** Designing, developing, and publishing production applications on **Google Play Store** and **Apple App Store**.
+* 🎯 **Full-Cycle Mindset:** End-to-end application lifecycle — API design, database modeling, mobile client integration, and store publishing.
 * ✍️ **Sharing Knowledge:** Regularly publishing hands-on architecture deep-dives and engineering benchmarks on [LinkedIn](https://www.linkedin.com/in/emre-salg%C4%B1r/).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**  
+**Backend & Frameworks:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%208%20%2F%209%20%2F%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Mobile Development & Store Publishing:**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
 
 **Databases & Caching:**  
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
